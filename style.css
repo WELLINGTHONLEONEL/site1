@@ -2,7 +2,7 @@ body{
     background-color: lightblue; 
 }
 nav{
-    background-color: darksalmon;
+    background-color: rgb(36, 106, 163);
     padding: 15px 50px;
     display: flex;
     justify-content: space-between;
